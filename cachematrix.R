@@ -1,4 +1,3 @@
-## Write a short comment describing this function
 #Hello my peers!
 #In the code below, I followed the pattern of the example - to cache mean - given by our instructor, with some adjustment
 #of the code in the example. While overwriting the original codes in the example, these adjustments are meant to implement 
